@@ -1,4 +1,6 @@
-# streaming_practice
+# Streaming data practice
+
+## Simple Stock Price
 
 This is a simple Stock Price WebApp. Modifications can be made through the 'tickerSymbol'.
 
